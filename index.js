@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🎢","Playing No Limits 2","Enjoying Open Season"];
+const statusMessages = ["Riding Rollercoasters","Booking theme park tickets","Sharing information"];
 
 
 let currentIndex = 0;
